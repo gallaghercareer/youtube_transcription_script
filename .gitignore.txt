@@ -1,0 +1,2 @@
+config.txt
+pinecone_config.txt
